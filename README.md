@@ -1,8 +1,8 @@
-Скрин 1
-![Скрин 1](1.jpg)
+pic 1
+![screenshot 1](1.jpg)
 
-Скрин 2
-![Скрин 2](2.jpg)
+pic 2
+![screenshot 2](2.jpg)
 
-Скрин 3
-![Скрин 3](2.jpg)
+pic 3
+![screenshot 3](2.jpg)
