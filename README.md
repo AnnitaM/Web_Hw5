@@ -5,4 +5,4 @@ pic 2
 ![screenshot 2](2.jpg)
 
 pic 3
-![screenshot 3](2.jpg)
+![screenshot 3](3.jpg)
