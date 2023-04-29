@@ -1,0 +1,40 @@
+{
+  "Tudengid": [
+    {
+      "ID": 11,
+      "Nimi": "Lilian",
+      "Vanus": 24,
+      "Aadress": "Ida-Virumaa"
+    },
+    {
+      "ID": 22,
+      "Nimi": "Joseph",
+      "Vanus": 35,
+      "Aadress": "Tartu"
+    },
+    {
+      "ID": 33,
+      "Nimi": "Arnolds",
+      "Vanus": 18,
+      "Aadress": "Keila"
+    },
+    {
+      "ID": 44,
+      "Nimi": "Monica",
+      "Vanus": 52,
+      "Aadress": "Tallinn"
+    },
+    {
+      "ID": 55,
+      "Nimi": "Ott",
+      "Vanus": 39,
+      "Aadress": "Haapsalu"
+    },
+    {
+      "ID": 66,
+      "Nimi": "Maire",
+      "Vanus": 42,
+      "Aadress": "Valga"
+    }
+  ]
+}
